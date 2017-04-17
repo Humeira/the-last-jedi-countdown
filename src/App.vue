@@ -17,7 +17,6 @@
     .container {
         width: 100%;
         background: url('./assets/img/poster.png') center center no-repeat;
-        /*background-size: 75%;*/
         background-color: #190206;
         height: 100vh;
         min-height: 100%;
