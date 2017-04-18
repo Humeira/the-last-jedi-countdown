@@ -22,6 +22,7 @@
         min-height: 100%;
         position: relative;
         overflow: hidden;
+        background-blend-mode: screen;
     }
 
     .container-gradient {
@@ -30,8 +31,8 @@
         height: 100%;
         position: absolute;
         opacity: 0.8;
-        background: -webkit-linear-gradient(126deg, #190206 50%, #8b0000 50%);
-        background: linear-gradient(126deg, #190206 50%, #8b0000 50%);
+        background: -webkit-linear-gradient(126deg, #190206 50%, #770000 50%);
+        background: linear-gradient(126deg, #190206 50%, #770000 50%);
     }
 </style>
 <script>
