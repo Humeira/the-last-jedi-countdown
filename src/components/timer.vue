@@ -65,6 +65,14 @@
         font-size: 15px;
         font-weight: 300;
         margin: 7px 0;
+        letter-spacing: 4px;
+    }
+
+    @media screen and (max-width: 768px) {
+        .time .time__mode {
+            font-size: 12px;
+            letter-spacing: normal;
+        }
     }
 </style>
 <script>
