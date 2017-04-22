@@ -51,8 +51,9 @@
     .time {
         display: inline-block;
         padding: 20px;
-        font-size: 5em;
+        font-size: 7em;
         font-weight: 700;
+        text-shadow: 0px 5px 20px rgba(0,0,0,0.7)
     }
 
     @media screen and (max-width: 768px) {
@@ -62,10 +63,11 @@
     }
 
     .time .time__mode {
-        font-size: 21px;
+        font-size: 25px;
         font-weight: 300;
         margin: 7px 0;
         letter-spacing: 4px;
+        text-shadow: 0px 4px 14px rgba(0,0,0,0.5)
     }
 
     @media screen and (max-width: 768px) {

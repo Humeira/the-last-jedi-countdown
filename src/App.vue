@@ -13,11 +13,10 @@
         margin: 0;
         padding: 0
     }
-
     .container {
         width: 100%;
-        background: url('./assets/img/poster.png') center center no-repeat;
-        background-size: contain;
+        background: url('./assets/img/img_1.jpeg') center center no-repeat;
+        background-size: cover;
         background-color: #190206;
         height: 100vh;
         min-height: 100%;
@@ -30,9 +29,8 @@
         width: 100%;
         height: 100%;
         position: absolute;
-        opacity: 0.8;
-        background: -webkit-linear-gradient(126deg, #190206 50%, #770000 50%);
-        background: linear-gradient(126deg, #190206 50%, #770000 50%);
+        background: -webkit-linear-gradient(top left, rgba(0,0,0,0.3), rgba(0,0,0,0.3));
+        background: linear-gradient(top left, rgba(0,0,0,0.3), rgba(0,0,0,0.3));
     }
 </style>
 <script>
