@@ -51,7 +51,7 @@
     .time {
         display: inline-block;
         padding: 20px;
-        font-size: 4em;
+        font-size: 5em;
         font-weight: 700;
     }
 
@@ -62,7 +62,7 @@
     }
 
     .time .time__mode {
-        font-size: 15px;
+        font-size: 21px;
         font-weight: 300;
         margin: 7px 0;
         letter-spacing: 4px;
