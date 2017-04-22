@@ -17,12 +17,12 @@
     .container {
         width: 100%;
         background: url('./assets/img/poster.png') center center no-repeat;
+        background-size: contain;
         background-color: #190206;
         height: 100vh;
         min-height: 100%;
         position: relative;
         overflow: hidden;
-        background-blend-mode: screen;
     }
 
     .container-gradient {
