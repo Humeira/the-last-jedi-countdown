@@ -2,7 +2,7 @@
     <div id="app">
         <div class="container">
             <div class="container-gradient">
-                <timer date-props="December 15, 2017"></timer>
+                <timer date-props="December 13, 2017"></timer>
             </div>
 
         </div>
