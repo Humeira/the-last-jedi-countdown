@@ -1,6 +1,7 @@
 # the-last-jedi-countdown
 
-> A Vue.js project
+![demo](https://raw.githubusercontent.com/Humeira/the-last-jedi-countdown/master/demo.png)
+
 
 ## Build Setup
 
@@ -15,4 +16,3 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
